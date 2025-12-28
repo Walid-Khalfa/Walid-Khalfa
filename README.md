@@ -1,137 +1,95 @@
-# Walid Khalfa — Full-Stack Developer & AI-Driven UI/UX Designer
+<!-- HERO ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Walid%20Khalfa&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%7C%20UI%2FUX&descAlign=50&descAlignY=55&animation=twinkling" />
+</p>
 
-I design and build **user-centered digital products** where **clean UI/UX, solid engineering, and AI capabilities** work together to solve real problems.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=700&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%E2%80%A2+AI+Integrations+%E2%80%A2+UI%2FUX+Focused;Design-driven+engineering+for+real+products;LLMs+%26+Multimodal+AI+%E2%80%A2+Next.js+%E2%80%A2+Node.js" />
+</p>
 
-My approach combines **design thinking**, **full-stack development**, and **practical AI integration** to deliver products that are usable, scalable, and impactful.
-
----
-
-## Design-Driven Development Philosophy
-
-I believe great products are built at the intersection of:
-- **User needs**
-- **Business goals**
-- **Technical feasibility**
-
-I apply UI/UX principles **before writing code**, then translate them into high-quality full-stack implementations enhanced with AI.
-
----
-
-## What I Build
-- **User-focused web applications** with React & Next.js
-- **Scalable backends** with Node.js and REST APIs
-- **AI-powered features** (LLMs, multimodal AI, assistants)
-- **Accessible and performant interfaces**
-- End-to-end products: **design → build → deploy**
+<!-- QUICK CTA -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-khalfa-41821513/"><img src="https://img.shields.io/badge/LinkedIn-Walid%20Khalfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khelfawalid@gmail.com"><img src="https://img.shields.io/badge/Email-khelfawalid%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Tunisia-111?style=for-the-badge" />
+</p>
 
 ---
 
-## Core Expertise
+## About
+I build **design-driven full-stack products** where **UI/UX quality, scalable engineering, and practical AI** work together.
 
-### UI / UX Design
-- User-centered design & UX thinking
-- Information architecture & user flows
-- Responsive and accessible interfaces (a11y)
-- Micro-interactions, loading states, feedback systems
-- UX writing and clarity-first interfaces
-
-### Frontend Engineering
-- React, Next.js, TypeScript
-- Component-based architecture
-- Design systems & reusable UI components
-- Performance-oriented rendering
-
-### Backend & APIs
-- Node.js
-- REST APIs
-- Authentication & validation
-- Secure data handling
-
-### AI Integration
-- LLM integration (prompt engineering & structured outputs)
-- Multimodal AI (text, image, audio, documents)
-- AI features designed for **usability & explainability**
-- AI as a **product feature**, not a buzzword
+**What you can expect from my work**
+- Clean, accessible, responsive interfaces (a11y, UX clarity, strong states)
+- Secure APIs (auth, validation) and scalable full-stack architecture
+- **AI as a product feature**: LLM integrations, multimodal input, structured outputs
 
 ---
 
-## Featured Projects (Case-Study Driven)
+## Featured Projects (Best Work)
 
-### 🥇 AgriTrust — AI-Powered Agricultural Traceability
-A product-oriented platform combining **AI, blockchain, and UX design** to ensure transparent and tamper-proof agricultural traceability.
-
-**UX focus**
-- Clear verification flows
-- Readable provenance summaries
-- Trust-oriented interface design
-
-🔗 Repository: https://github.com/Walid-Khalfa/AgriTrust  
-🎥 Demo Video: https://youtu.be/nHIcXb2UoRc  
-
----
+### 🥇 AgriTrust — AI + Blockchain Traceability (NFT Certificates)
+**Product focus:** trust, verification flows, readable provenance summaries  
+- Demo Video: https://youtu.be/nHIcXb2UoRc  
+- Repo: https://github.com/Walid-Khalfa/AgriTrust
 
 ### 🥈 HealthTrackAI — Multimodal AI Health Insights
-A full-stack AI product that analyzes **text, images, audio, and documents** to generate structured and understandable health insights.
+**Product focus:** simple input → clear results, explainable AI output  
+- Live App: https://ai.studio/apps/drive/1l7b1dG4a-hxZfNuoW64kyabcRonFnwUB  
+- Demo Video: https://youtu.be/qJBWB4I5ECM  
+- Repo: https://github.com/Walid-Khalfa/HealthTrackAI
 
-**UX focus**
-- Simple multimodal input experience
-- Clear separation between data input and AI results
-- Readable, non-overwhelming AI output
+### 🥉 EduVisionAI — AI Learning from PDFs
+**Product focus:** reduce cognitive load, structured learning experience  
+- Repo: https://github.com/Walid-Khalfa/EduVisionAI
 
-🔗 Repository: https://github.com/Walid-Khalfa/HealthTrackAI  
-🎥 Demo Video: https://youtu.be/qJBWB4I5ECM  
-🚀 Live App: https://ai.studio/apps/drive/1l7b1dG4a-hxZfNuoW64kyabcRonFnwUB  
-
----
-
-### 🥉 EduVisionAI — Learning Experience Powered by AI
-An AI-driven learning platform transforming PDFs into **structured, interactive learning experiences**.
-
-**UX focus**
-- Cognitive load reduction
-- Clear learning hierarchy
-- Content-first interface design
-
-🔗 Repository: https://github.com/Walid-Khalfa/EduVisionAI  
+### GaiaShield — AI Assistant for SMEs
+**Product focus:** action-oriented answers, minimal UI  
+- Repo: https://github.com/Walid-Khalfa/GaiaShield
 
 ---
 
-### GaiaShield — AI Assistant for Business Resilience
-An AI assistant designed to help SMEs assess risks and improve decision-making through clear insights.
-
-**UX focus**
-- Conversational clarity
-- Action-oriented AI responses
-- Minimal and focused UI
-
-🔗 Repository: https://github.com/Walid-Khalfa/GaiaShield  
+## UI/UX Toolkit (How I Design)
+- **Information hierarchy** & progressive disclosure
+- **Micro-interactions**: loading, empty states, errors, feedback
+- **Accessibility by default**: contrast, keyboard, focus, readable type
+- **Performance mindset**: fast UI, smooth flows, consistent components
 
 ---
 
-## UI / UX Principles I Apply
-- User clarity over visual noise
-- Progressive disclosure of information
-- Consistent layouts and spacing
-- Strong empty states and error handling
-- Accessibility by default
-- Interfaces designed to **support decision-making**
+## Tech Stack (Icons)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,tailwind,figma,git,github,vercel&perline=7" />
+</p>
 
 ---
 
-## What Differentiates My Profile
-- Strong **UI/UX mindset combined with engineering**
-- AI integrated into **real user workflows**
-- Design and code aligned from the start
-- End-to-end product ownership
-- Clear documentation and demo-driven projects
+## GitHub Stats (Clean Cards)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Walid-Khalfa&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Walid-Khalfa" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-Khalfa&layout=compact" />
+</p>
+
+---
+
+## Contribution Animation (Snake)
+> If you don't see it immediately, wait a minute after pushing changes.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Walid-Khalfa/Walid-Khalfa/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
 ## Contact
-📍 Tunisia  
-📧 khelfawalid@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/walid-khalfa-41821513/
+- Email: khelfawalid@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/walid-khalfa-41821513/  
 
----
-
-⭐ If you value clean design, strong UX, and intelligent AI-powered products, feel free to explore my work.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Let%E2%80%99s%20build%20beautiful%20AI-powered%20products.&fontAlign=50&fontAlignY=50&animation=fadeIn" />
+</p>
