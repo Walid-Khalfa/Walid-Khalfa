@@ -1,55 +1,82 @@
-# Walid Khalfa — Full-Stack Developer with AI Skills
+# Walid Khalfa — Full-Stack Developer & AI-Driven UI/UX Designer
 
-I am a **Full-Stack JavaScript Developer** specialized in building modern web applications where **AI is used as a real product feature**, not just a demo.
+I design and build **user-centered digital products** where **clean UI/UX, solid engineering, and AI capabilities** work together to solve real problems.
 
-I focus on clean **UI/UX**, scalable architectures, and practical **AI integrations** that solve real-world problems.
-
----
-
-## What I Do
-- Build full-stack web applications with **React / Next.js** and **Node.js**
-- Integrate **AI features** (LLMs, multimodal AI, assistants, analysis pipelines)
-- Design clean, accessible, and user-focused interfaces
-- Deliver production-ready code with security and performance in mind
+My approach combines **design thinking**, **full-stack development**, and **practical AI integration** to deliver products that are usable, scalable, and impactful.
 
 ---
 
-## Core Tech Stack
+## Design-Driven Development Philosophy
 
-### Frontend
-- React, Next.js
-- TypeScript
-- Responsive UI, accessibility, UX best practices
+I believe great products are built at the intersection of:
+- **User needs**
+- **Business goals**
+- **Technical feasibility**
 
-### Backend
+I apply UI/UX principles **before writing code**, then translate them into high-quality full-stack implementations enhanced with AI.
+
+---
+
+## What I Build
+- **User-focused web applications** with React & Next.js
+- **Scalable backends** with Node.js and REST APIs
+- **AI-powered features** (LLMs, multimodal AI, assistants)
+- **Accessible and performant interfaces**
+- End-to-end products: **design → build → deploy**
+
+---
+
+## Core Expertise
+
+### UI / UX Design
+- User-centered design & UX thinking
+- Information architecture & user flows
+- Responsive and accessible interfaces (a11y)
+- Micro-interactions, loading states, feedback systems
+- UX writing and clarity-first interfaces
+
+### Frontend Engineering
+- React, Next.js, TypeScript
+- Component-based architecture
+- Design systems & reusable UI components
+- Performance-oriented rendering
+
+### Backend & APIs
 - Node.js
 - REST APIs
-- Authentication & input validation
+- Authentication & validation
+- Secure data handling
 
-### AI
-- LLM integration
+### AI Integration
+- LLM integration (prompt engineering & structured outputs)
 - Multimodal AI (text, image, audio, documents)
-- Prompt engineering for structured and explainable outputs
-
-### Other
-- Deployment (Vercel)
-- Environment variables
-- Clean documentation & demos
+- AI features designed for **usability & explainability**
+- AI as a **product feature**, not a buzzword
 
 ---
 
-## Featured Projects
+## Featured Projects (Case-Study Driven)
 
 ### 🥇 AgriTrust — AI-Powered Agricultural Traceability
-AI + blockchain platform ensuring transparent and tamper-proof traceability of agricultural products using NFT certificates.
+A product-oriented platform combining **AI, blockchain, and UX design** to ensure transparent and tamper-proof agricultural traceability.
+
+**UX focus**
+- Clear verification flows
+- Readable provenance summaries
+- Trust-oriented interface design
 
 🔗 Repository: https://github.com/Walid-Khalfa/AgriTrust  
 🎥 Demo Video: https://youtu.be/nHIcXb2UoRc  
 
 ---
 
-### 🥈 HealthTrackAI — Multimodal AI Health Analysis
-Full-stack AI application analyzing **text, images, audio, and documents** to generate structured health insights.
+### 🥈 HealthTrackAI — Multimodal AI Health Insights
+A full-stack AI product that analyzes **text, images, audio, and documents** to generate structured and understandable health insights.
+
+**UX focus**
+- Simple multimodal input experience
+- Clear separation between data input and AI results
+- Readable, non-overwhelming AI output
 
 🔗 Repository: https://github.com/Walid-Khalfa/HealthTrackAI  
 🎥 Demo Video: https://youtu.be/qJBWB4I5ECM  
@@ -57,32 +84,45 @@ Full-stack AI application analyzing **text, images, audio, and documents** to ge
 
 ---
 
-### 🥉 EduVisionAI — AI-Powered Learning from PDFs
-AI application that transforms educational PDFs into structured, interactive learning experiences.
+### 🥉 EduVisionAI — Learning Experience Powered by AI
+An AI-driven learning platform transforming PDFs into **structured, interactive learning experiences**.
+
+**UX focus**
+- Cognitive load reduction
+- Clear learning hierarchy
+- Content-first interface design
 
 🔗 Repository: https://github.com/Walid-Khalfa/EduVisionAI  
 
 ---
 
-### GaiaShield — AI Assistant for SMEs
-AI-powered assistant helping small and medium businesses improve resilience and decision-making.
+### GaiaShield — AI Assistant for Business Resilience
+An AI assistant designed to help SMEs assess risks and improve decision-making through clear insights.
+
+**UX focus**
+- Conversational clarity
+- Action-oriented AI responses
+- Minimal and focused UI
 
 🔗 Repository: https://github.com/Walid-Khalfa/GaiaShield  
 
 ---
 
-## UI / UX Principles
-- Clear information hierarchy
-- Responsive-first layouts
-- Loading states, error handling, and empty states
-- Accessible components and readable typography
+## UI / UX Principles I Apply
+- User clarity over visual noise
+- Progressive disclosure of information
+- Consistent layouts and spacing
+- Strong empty states and error handling
+- Accessibility by default
+- Interfaces designed to **support decision-making**
 
 ---
 
-## What Makes My Profile Different
-- AI is **integrated into real products**, not isolated scripts
-- Strong focus on **usability and explainability**
-- End-to-end ownership: UI → Backend → AI → Deployment
+## What Differentiates My Profile
+- Strong **UI/UX mindset combined with engineering**
+- AI integrated into **real user workflows**
+- Design and code aligned from the start
+- End-to-end product ownership
 - Clear documentation and demo-driven projects
 
 ---
@@ -94,4 +134,4 @@ AI-powered assistant helping small and medium businesses improve resilience and 
 
 ---
 
-⭐ Feel free to explore my repositories and demos.
+⭐ If you value clean design, strong UX, and intelligent AI-powered products, feel free to explore my work.
