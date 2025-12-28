@@ -1,151 +1,84 @@
-<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Walid%20Khalfa&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%7C%20UI%2FUX&descAlign=50&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Walid%20Khalfa&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20UI/UX%20Specialist&descAlign=50&descAlignY=55&animation=twinkling&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=700&center=true&vCenter=true&width=850&lines=Design-driven+Full-Stack+Developer;AI-powered+Products+with+Clean+UI%2FUX;LLMs+%26+Multimodal+AI+%E2%80%A2+Next.js+%E2%80%A2+Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Design-driven+Full-Stack+Engineering;Building+Intelligent+Multimodal+AI+Products;Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+LLMs" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-khalfa-41821513/">
-    <img src="https://img.shields.io/badge/LinkedIn-Walid%20Khalfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:khelfawalid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khelfawalid%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Tunisia-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Tunisia-E2231A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
 
-## About Me
-I design and build **user-centered digital products** where **clean UI/UX, scalable full-stack engineering, and practical AI** come together.
-
-I work with a **product mindset**: understand users → design flows → build robust systems → integrate AI where it adds real value.
+## ⚡ Professional Synopsis
+I bridge the gap between **complex backend logic** and **intuitive user experiences**. My methodology is product-centric: I don't just write code; I architect solutions where AI serves as a core functional value rather than an add-on.
 
 ---
 
-## What I Do
-- Build **modern full-stack applications** with React / Next.js & Node.js  
-- Design **accessible, responsive, and intuitive interfaces**  
-- Integrate **AI features** (LLMs, multimodal AI, assistants)  
-- Deliver **end-to-end products**: design → develop → deploy  
+## 🛠️ Tech Stack & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Design & Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=figma,tailwind,react,nextjs,ts,js&perline=3" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend & Intelligence</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,vercel&perline=3" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Core Expertise
+## 🚀 Featured Engineering Case Studies
 
-### UI / UX Design
-- User-centered design & design thinking
-- Information architecture & user flows
-- Accessibility (a11y) & usability best practices
-- Micro-interactions, loading & empty states
-- UX writing & clarity-first interfaces
+### 01. AgriTrust | AI + Blockchain Traceability
+*Architecting trust in agricultural supply chains via NFT certification.*
+* **Engineering:** Built a transparent verification flow for provenance data.
+* **UX Strategy:** Simplified complex blockchain transactions into readable, trust-focused UI.
+* [**Repository**](https://github.com/Walid-Khalfa/AgriTrust) | [**Video Demo**](https://youtu.be/nHIcXb2UoRc)
 
-### Frontend
-- React, Next.js, TypeScript
-- Component-based architecture
-- Design systems & reusable components
-- Performance-focused UI rendering
-
-### Backend
-- Node.js
-- REST APIs
-- Authentication & validation
-- Secure data handling
-
-### AI Integration
-- LLM integration & prompt engineering
-- Multimodal AI (text, image, audio, documents)
-- Explainable & structured AI outputs
-- AI designed as a **product feature**, not a gimmick
+### 02. HealthTrackAI | Multimodal Health Analysis
+*Processing text, image, and audio to generate structured medical insights.*
+* **Engineering:** Integrated LLMs with multimodal capabilities for clinical data processing.
+* **UX Strategy:** Designed a non-overwhelming dashboard for high-density information.
+* [**Live App**](https://ai.studio/apps/drive/1l7b1dG4a-hxZfNuoW64kyabcRonFnwUB) | [**Video Demo**](https://youtu.be/qJBWB4I5ECM)
 
 ---
 
-## Featured Projects (Case-Study Oriented)
+## 📊 Technical Performance
 
-### 🥇 AgriTrust — AI + Blockchain Traceability
-AI-powered agricultural traceability platform using **NFT certificates** to ensure trust and transparency.
-
-**UX focus**
-- Clear verification flows  
-- Readable provenance summaries  
-- Trust-oriented interface design  
-
-🔗 Repo: https://github.com/Walid-Khalfa/AgriTrust  
-🎥 Demo: https://youtu.be/nHIcXb2UoRc  
-
----
-
-### 🥈 HealthTrackAI — Multimodal AI Health Insights
-Full-stack AI application analyzing **text, images, audio, and documents** to generate structured health insights.
-
-**UX focus**
-- Simple multimodal input experience  
-- Clear separation between input & AI output  
-- Readable, non-overwhelming results  
-
-🔗 Repo: https://github.com/Walid-Khalfa/HealthTrackAI  
-🎥 Demo: https://youtu.be/qJBWB4I5ECM  
-🚀 Live App: https://ai.studio/apps/drive/1l7b1dG4a-hxZfNuoW64kyabcRonFnwUB  
-
----
-
-### 🥉 EduVisionAI — AI Learning from PDFs
-AI-powered learning platform transforming PDFs into structured, interactive learning experiences.
-
-🔗 Repo: https://github.com/Walid-Khalfa/EduVisionAI  
-
----
-
-### GaiaShield — AI Assistant for SMEs
-AI assistant helping businesses assess risks and improve decision-making.
-
-🔗 Repo: https://github.com/Walid-Khalfa/GaiaShield  
-
----
-
-## UI / UX Principles I Apply
-- Clarity over visual noise  
-- Progressive disclosure of information  
-- Consistent spacing & layouts  
-- Strong feedback, error & empty states  
-- Accessibility by default  
-- Interfaces designed to **support decisions**
-
----
-
-## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,tailwind,figma,git,github,vercel&perline=7"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Walid-Khalfa&show_icons=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=777&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-Khalfa&layout=compact&theme=transparent&title_color=0A66C2&text_color=777&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=Walid-Khalfa&theme=transparent&currStreakNum=0A66C2&sideLabels=777&stroke=0A66C2&hide_border=true" />
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Walid-Khalfa/Walid-Khalfa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Walid-Khalfa&show_icons=true&hide_title=true&rank_icon=github&cache_seconds=1800"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Walid-Khalfa&cache_seconds=1800"/>
-</p>
+## 🧠 Design Principles
+* **Clarity Over Noise:** Functional minimalist interfaces.
+* **A11y by Default:** High-contrast, keyboard-accessible designs.
+* **Explainable AI:** UX patterns that make AI outputs verifiable and transparent.
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-Khalfa&layout=compact&cache_seconds=1800"/>
-</p>
-
----
-
-## Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Walid-Khalfa/Walid-Khalfa/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## Contact
-- 📧 Email: khelfawalid@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/walid-khalfa-41821513/  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Let’s%20build%20beautiful%20AI-powered%20products.&fontAlign=50&fontAlignY=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Let’s%20build%20the%20future%20of%20AI-driven%20interfaces.&fontAlign=50&fontAlignY=50&color=0A66C2" />
 </p>
